@@ -1,1 +1,6 @@
-cp -nu *.html ..
+#!bin/bash
+cp -*.html ..
+
+
+
+git add .
