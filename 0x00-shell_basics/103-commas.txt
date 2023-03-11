@@ -1,2 +1,2 @@
-#1bin/bash
+#!bin/bash
 ls-map
