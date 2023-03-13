@@ -1,0 +1,7 @@
+This file shoud have been available in the wor4king directory
+this one was generated manually for testing this script
+What this example implies is that you need to create a shell script that will always display the text “Dr. Ehoneah Obed” without quotation marks.
+
+To be able to achieve that, you first have to find a command that allows you to just display that exact text to the screen (standard output).
+
+The commonest way to do that is to use the echo command in Linux.
